@@ -1,4 +1,4 @@
-#Credits: Mukashev Sultanbek SE-2422
+
 
 courses = {
  "CS101": ("Intro to Computer Science", "Dr. Smith", 30, set()),
